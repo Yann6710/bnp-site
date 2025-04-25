@@ -12,6 +12,7 @@ body {
 }
 .login, .compte, .details {
     padding: 40px;
+   
 }
 .logo {
     width: 150px;
@@ -22,6 +23,7 @@ body {
     text-align: center;
 }
 .login-box input {
+    background-image: url('2.png');
     display: block;
     margin: 10px auto;
     padding: 10px;
@@ -29,6 +31,7 @@ body {
     max-width: 300px;
     border-radius: 10px;
     border: none;
+    background-image: url('2.png');
 }
 .login-box button {
     padding: 10px 20px;
